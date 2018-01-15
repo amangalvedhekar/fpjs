@@ -22,7 +22,7 @@
             }
         }
     }
-</code>
+</code><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
@@ -32,3 +32,7 @@
 
 
 <sup>[1]</sup> <a href="https://en.wikipedia.org/wiki/Currying"> Wikipedia - Currying</a>
+<hr/>
+<em>Further reading</em><br/><br/>
+<a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0"> Medium post</a>
+<br/><a href="http://2ality.com/2017/11/currying-in-js.html"> More in depth understanding of currying</a>

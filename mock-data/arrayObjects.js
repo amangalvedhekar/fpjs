@@ -20,7 +20,7 @@ const gamesList = [
         name: 'God Of War!!!'
     }
     ];
-
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from
 const filterList = Array.from({ length: 40 }, (_,index) => index +1);
 
 export {

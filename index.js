@@ -36,7 +36,7 @@ console.log('curried function returning new property', curriedMapNewProperty(gam
 
 console.log('some more example', curriedMapNewProperty(gamesList)({}));
 
-/**
+/**ToDO: add examples with Rambda
  */
 console.log('filter curried', filterFromArray(filterList)(even));
 

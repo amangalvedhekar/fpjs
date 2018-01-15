@@ -1,2 +1,6 @@
 # fpjs
-functional programming gists
+<ul>
+    <li>
+        Currying
+    </li>
+</ul>

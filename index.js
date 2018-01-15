@@ -8,7 +8,7 @@ import {
 import {
     gamesList,
     filterList
-} from "./mock-data/arrayObjects";
+} from './mock-data/arrayObjects';
 
 
 const even = (num) => num%2 ===0;

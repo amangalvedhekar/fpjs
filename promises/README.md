@@ -1,7 +1,7 @@
 <h1>What are promises?</h1>
 <p>
     Promises are extended implementation of <i>continuation monad.</i>
-    Its essentially an object to which callbacks can be attached.
+    Promises are object to which callbacks can be attached.
 
 </p>
 <h5>

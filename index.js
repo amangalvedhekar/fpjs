@@ -5,6 +5,8 @@ import {
     filterFromArray,
 } from './currying/index';
 
+import { promiseObject } from './promises/index';
+
 import {
     gamesList,
     filterList
@@ -41,3 +43,15 @@ console.log('some more example', curriedMapNewProperty(gamesList)({}));
 console.log('filter curried', filterFromArray(filterList)(even));
 
 console.log('filter curried', filterFromArray(filterList)(odd));
+
+const requestData = {
+    psnExclusive: true
+};
+
+const badRequestData = {
+    psnExclusive: false
+};
+
+promiseObject(requestData)
+    .then(gameObject=> console.log('inside then', gameObject))
+    .catch(errorMessage => console.log('Error caught inside catch',errorMessage));

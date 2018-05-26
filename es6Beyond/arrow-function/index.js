@@ -12,7 +12,7 @@ function getGameNames(gameObject) {
   return gameObject.name;
 }
 
-const getNamesList  = game => game.name;
+const getNamesList = game => game.name;
 const restParameter = (...game) => {
   console.log(game.length, 'inside new arrow funct');
   return game[0].name;

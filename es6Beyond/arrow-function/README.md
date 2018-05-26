@@ -8,4 +8,4 @@ Arrow function expression is a short hand version which does not have its own th
 * Returning Object Literals: ex: `const fooBar = x => ({id:2});`
 
 References:
-<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions'>MDN - arrow functions</a>
+[MDN - arrow functions expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)

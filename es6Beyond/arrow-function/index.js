@@ -7,7 +7,6 @@ function getGameNames(gameObject) {
   * arguments object cannot be accessed with arrow function but
   * rest parameters can be used
   * */
-
   console.log(arguments.length, 'inside anonymous function');
   return gameObject.name;
 }

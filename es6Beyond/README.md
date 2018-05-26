@@ -9,4 +9,5 @@
 * Set/WeakSet
 * Map/WeakMap
 * async/await
-
+* generators
+* class

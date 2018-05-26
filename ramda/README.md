@@ -1,0 +1,12 @@
+`cond`
+`either`
+`propOr`
+`prop`
+`path`
+`pathOr`
+`compose`
+`composeP`
+`composeK`
+`pipe`
+`pipeP`
+`pipeK`
